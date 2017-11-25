@@ -1,8 +1,3 @@
 
 # v1 
-a=11
-# v2
-b=22 
-# v3 
-c=33
-
+import tensorflow as tf
